@@ -1,0 +1,107 @@
+2025-09-14 11:37:44,592 - __main__ - WARNING - OpenWeatherMap API key not configured!
+2025-09-14 11:37:44,662 - db_handler - INFO - Database connection established successfully
+2025-09-14 11:37:44,764 - __main__ - INFO - Loading outfit dataset into database...
+2025-09-14 11:37:44,864 - db_handler - INFO - Inserted 28 outfit records
+2025-09-14 11:37:44,864 - __main__ - INFO - Successfully loaded 28 outfit items into database
+2025-09-14 11:37:44,867 - db_handler - INFO - Database connection closed
+2025-09-14 11:37:46,696 - db_handler - INFO - Database connection established successfully
+2025-09-14 11:37:46,698 - weather_api - WARNING - Please set your OpenWeatherMap API key in config.py
+2025-09-14 11:37:46,707 - db_handler - INFO - Database connection established successfully
+2025-09-14 11:38:03,817 - outfit_recommender - INFO - Fetching weather data for Mumbai
+2025-09-14 11:38:04,133 - weather_api - ERROR - Invalid API key. Please check your OpenWeatherMap API key.
+2025-09-14 11:45:22,444 - outfit_recommender - INFO - Fetching weather data for Mumbai
+2025-09-14 11:45:22,935 - weather_api - ERROR - Invalid API key. Please check your OpenWeatherMap API key.
+2025-09-14 11:45:44,119 - __main__ - INFO - Application interrupted by user
+2025-09-14 11:45:49,951 - __main__ - WARNING - OpenWeatherMap API key not configured!
+2025-09-14 11:45:49,974 - db_handler - INFO - Database connection established successfully
+2025-09-14 11:45:50,008 - db_handler - INFO - Database connection closed
+2025-09-14 11:45:50,254 - db_handler - INFO - Database connection established successfully
+2025-09-14 11:45:50,256 - weather_api - WARNING - Please set your OpenWeatherMap API key in config.py
+2025-09-14 11:45:50,276 - db_handler - INFO - Database connection established successfully
+2025-09-14 11:46:41,160 - outfit_recommender - INFO - Fetching weather data for pune
+2025-09-14 11:46:41,375 - weather_api - ERROR - Invalid API key. Please check your OpenWeatherMap API key.
+2025-09-14 11:56:30,123 - __main__ - INFO - Application interrupted by user
+2025-09-14 15:03:03,441 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:03:03,470 - db_handler - INFO - Database connection closed
+2025-09-14 15:03:03,717 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:03:03,724 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:03:07,715 - outfit_recommender - INFO - Fetching weather data for Mumbai
+2025-09-14 15:03:07,984 - weather_api - ERROR - Network error while fetching weather data: HTTPConnectionPool(host='api.openweathermap.org', port=80): Max retries exceeded with url: /data/2.5/weather?q=Mumbai&appid=66b120ebbbb5c3c495cdfc345efbde21&units=metric (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000017E3CB38AD0>: Failed to resolve 'api.openweathermap.org' ([Errno 11001] getaddrinfo failed)"))
+2025-09-14 15:03:13,157 - db_handler - INFO - Database connection closed
+2025-09-14 15:03:13,160 - db_handler - INFO - Database connection closed
+2025-09-14 15:03:13,237 - __main__ - INFO - Application completed successfully
+2025-09-14 15:15:12,454 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:15:12,492 - db_handler - INFO - Database connection closed
+2025-09-14 15:15:12,705 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:15:12,713 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:15:20,036 - outfit_recommender - INFO - Fetching weather data for Mumbai
+2025-09-14 15:15:20,299 - weather_api - INFO - Successfully fetched weather data for Mumbai
+2025-09-14 15:15:20,305 - db_handler - INFO - Weather data inserted with ID: 68c68eb0889568fadc74c25e
+2025-09-14 15:15:20,315 - db_handler - INFO - Recommendation inserted with ID: 68c68eb0889568fadc74c25f
+2025-09-14 15:29:46,124 - db_handler - INFO - Database connection closed
+2025-09-14 15:29:46,126 - db_handler - INFO - Database connection closed
+2025-09-14 15:29:46,255 - __main__ - INFO - Application completed successfully
+2025-09-14 15:33:06,984 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:33:07,018 - db_handler - INFO - Database connection closed
+2025-09-14 15:33:07,573 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:33:07,578 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:33:49,542 - outfit_recommender - INFO - Fetching weather data for pune
+2025-09-14 15:33:49,829 - weather_api - INFO - Successfully fetched weather data for pune
+2025-09-14 15:33:49,835 - db_handler - INFO - Weather data inserted with ID: 68c693053149a36744b858e3
+2025-09-14 15:33:49,840 - db_handler - INFO - Recommendation inserted with ID: 68c693053149a36744b858e4
+2025-09-14 15:39:51,332 - __main__ - INFO - Application interrupted by user
+2025-09-14 15:39:59,326 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:39:59,352 - db_handler - INFO - Database connection closed
+2025-09-14 15:39:59,772 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:39:59,779 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:40:19,503 - outfit_recommender - INFO - Fetching weather data for delhi
+2025-09-14 15:40:19,815 - weather_api - INFO - Successfully fetched weather data for delhi
+2025-09-14 15:40:19,821 - db_handler - INFO - Weather data inserted with ID: 68c6948b790cc688057af4c0
+2025-09-14 15:40:19,829 - db_handler - INFO - Recommendation inserted with ID: 68c6948b790cc688057af4c1
+2025-09-14 15:43:43,281 - __main__ - INFO - Application interrupted by user
+2025-09-14 15:52:48,212 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:52:48,246 - db_handler - INFO - Database connection closed
+2025-09-14 15:52:48,848 - db_handler - INFO - Database connection established successfully
+2025-09-14 15:52:48,860 - db_handler - INFO - Database connection established successfully
+2025-09-14 16:07:35,718 - __main__ - INFO - Application interrupted by user
+2025-09-14 16:46:30,567 - db_handler - INFO - Database connection established successfully
+2025-09-14 16:46:30,591 - db_handler - INFO - Database connection closed
+2025-09-14 16:46:32,840 - db_handler - INFO - Database connection established successfully
+2025-09-14 16:46:32,853 - db_handler - INFO - Database connection established successfully
+2025-09-14 16:46:53,806 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:46:53,809 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:46:53,811 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:46:53,814 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:46:53,817 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:46:53,820 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:08,054 - outfit_recommender - INFO - Fetching weather data for jaipur
+2025-09-14 16:47:08,154 - weather_api - INFO - Successfully fetched weather data for jaipur
+2025-09-14 16:47:08,161 - db_handler - INFO - Weather data inserted with ID: 68c6a4346c2ec589c1e706f2
+2025-09-14 16:47:08,166 - db_handler - INFO - Recommendation inserted with ID: 68c6a4346c2ec589c1e706f3
+2025-09-14 16:47:34,446 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:34,449 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:34,451 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:34,453 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:34,455 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:34,458 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:34,460 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:34,463 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:45,197 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:45,199 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:45,201 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:45,204 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:45,206 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:45,209 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:45,212 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:47:45,216 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-09-14 16:54:40,239 - __main__ - INFO - Application interrupted by user
+2025-09-14 20:22:22,411 - db_handler - INFO - Database connection established successfully
+2025-09-14 20:22:22,436 - db_handler - INFO - Database connection closed
+2025-09-14 20:22:25,086 - db_handler - INFO - Database connection established successfully
+2025-09-14 20:22:25,097 - db_handler - INFO - Database connection established successfully
+2025-09-14 20:22:45,916 - outfit_recommender - INFO - Fetching weather data for goa
+2025-09-14 20:22:46,198 - weather_api - INFO - Successfully fetched weather data for goa
+2025-09-14 20:22:46,212 - db_handler - INFO - Weather data inserted with ID: 68c6d6be21f807768fb7122c
+2025-09-14 20:22:46,219 - db_handler - INFO - Recommendation inserted with ID: 68c6d6be21f807768fb7122d
+2025-09-14 20:23:46,073 - db_handler - INFO - Database connection closed
+2025-09-14 20:23:46,076 - db_handler - INFO - Database connection closed

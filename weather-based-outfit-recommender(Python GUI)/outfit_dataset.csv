@@ -1,0 +1,29 @@
+clothing_type,category,temp_min,temp_max,humidity_min,humidity_max,weather_conditions,season,material,comfort_rating
+Heavy Winter Coat,Outerwear,-20,5,0,100,"['snow', 'clear', 'clouds', 'rain']",winter,down/wool,9
+Wool Sweater,Top,-10,15,0,100,"['snow', 'clear', 'clouds']",winter,wool,8
+Thermal Underwear,Underwear,-20,10,0,100,"['snow', 'clear', 'clouds']",winter,merino wool,7
+Thick Jeans,Bottom,-10,15,0,100,"['snow', 'clear', 'clouds']",winter,denim,7
+Winter Boots,Footwear,-20,10,0,100,"['snow', 'clear', 'clouds', 'rain']",winter,leather/synthetic,8
+Warm Scarf,Accessory,-15,10,0,100,"['snow', 'clear', 'clouds']",winter,wool/cashmere,9
+Winter Gloves,Accessory,-20,5,0,100,"['snow', 'clear', 'clouds']",winter,wool/leather,8
+Light Jacket,Outerwear,10,20,0,100,"['clear', 'clouds', 'rain']",spring,cotton/polyester,8
+Cardigan,Top,12,22,0,100,"['clear', 'clouds']",spring,cotton/wool,9
+Long Sleeve Shirt,Top,10,25,0,100,"['clear', 'clouds', 'rain']",spring,cotton,8
+Jeans,Bottom,8,25,0,100,"['clear', 'clouds', 'rain']",spring,denim,7
+Sneakers,Footwear,5,30,0,100,"['clear', 'clouds']",spring,canvas/synthetic,9
+Rain Jacket,Outerwear,5,25,60,100,"['rain', 'drizzle']",spring,waterproof synthetic,6
+T-Shirt,Top,20,45,0,100,"['clear', 'clouds']",summer,cotton,10
+Tank Top,Top,25,45,0,100,"['clear', 'clouds']",summer,cotton/linen,10
+Shorts,Bottom,20,45,0,100,"['clear', 'clouds']",summer,cotton/linen,10
+Sundress,Dress,22,40,0,100,"['clear', 'clouds']",summer,cotton/linen,9
+Sandals,Footwear,18,45,0,100,"['clear', 'clouds']",summer,leather/synthetic,9
+Sun Hat,Accessory,25,45,0,100,['clear'],summer,cotton/straw,8
+Sunglasses,Accessory,20,45,0,100,['clear'],summer,plastic/metal,7
+Light Cotton Shirt,Top,22,35,0,80,"['clear', 'clouds']",summer,cotton,9
+Linen Pants,Bottom,25,40,0,100,"['clear', 'clouds']",summer,linen,9
+Umbrella,Accessory,-5,35,80,100,"['rain', 'drizzle', 'thunderstorm']",all,synthetic,5
+Waterproof Jacket,Outerwear,0,30,70,100,"['rain', 'drizzle', 'thunderstorm']",all,waterproof synthetic,6
+Rain Boots,Footwear,0,25,80,100,"['rain', 'drizzle', 'thunderstorm']",all,rubber,6
+Breathable Cotton Shirt,Top,20,35,70,100,"['clear', 'clouds']",summer,cotton,9
+Moisture-Wicking Shirt,Top,18,40,60,100,"['clear', 'clouds']",summer,synthetic,8
+Windbreaker,Outerwear,5,25,0,100,"['clear', 'clouds']",spring,nylon,7

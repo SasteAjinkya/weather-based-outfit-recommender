@@ -1,0 +1,20 @@
+# Weather-Based Outfit Recommendation System Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+pymongo==4.6.0          # MongoDB driver for Python
+requests==2.31.0        # HTTP library for API calls
+pandas==2.1.4           # Data manipulation and analysis
+
+# GUI dependencies (usually included with Python)
+# tkinter is included with most Python installations
+
+# Optional: For better MongoDB experience
+dnspython==2.4.2        # For MongoDB Atlas connections (optional)
+
+# Development dependencies (optional)
+# pytest==7.4.3         # For testing
+# black==23.11.0         # Code formatting
+# flake8==6.1.0          # Code linting
+flask
+s
